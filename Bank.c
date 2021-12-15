@@ -1,4 +1,4 @@
-//This is Group 8 Welcome to our Nmims Bank!
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
